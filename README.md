@@ -1,4 +1,4 @@
-# SAIDI | Reborn
+# SAIDI Browser
 <center><a href="https://superblueeyeball.github.io/">visit live website</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSdU1CELhxTF7WqrW2ujKs9DHI1gANNJQqzN7Ojz6i8sIe-X6A/viewform?usp=sf_link">request feature</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSdU1CELhxTF7WqrW2ujKs9DHI1gANNJQqzN7Ojz6i8sIe-X6A/viewform?usp=sf_link">report issue</a></center>
     
 ### Welcome to Gmingrealm, the best gaming site on the market!
