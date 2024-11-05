@@ -1,14 +1,14 @@
 # SAIDI Browser
 <center><a href="https://superblueeyeball.github.io/">visit live website</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSdU1CELhxTF7WqrW2ujKs9DHI1gANNJQqzN7Ojz6i8sIe-X6A/viewform?usp=sf_link">request feature</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSdU1CELhxTF7WqrW2ujKs9DHI1gANNJQqzN7Ojz6i8sIe-X6A/viewform?usp=sf_link">report issue</a></center>
     
-### Welcome to Gmingrealm, the best gaming site on the market!
+### Welcome to the SAIDI Web Browser, the new creation soon to be the evolution of the internet in society!
 
 
-This project has a license, so don't try copying it. You can fork it and give credit without claiming it's yours. Self-hosting and hosting providers are OK ***WITH CREDIT AND LICENSE*** of me (SuperBlueEyeball) and the template creator (SipSup3314). 
+SAIDI Browser is licensed and rightfully owned by SaidiCo. Industry. Any illegal, exploiting, or sort of wrongdoing that can impact the experience will come with consequences.
 
-## My backstory 
+## Background Information on the Future Riser, Levi 
 
-I used to have this gaming site hosted on replit, but it run on replit which sucks now. Replit also got blocked in my school. The site even got resource limited so I took initiative after a while and restarted the best gaming site ever!!!
+Levi is a 14 year old boy with many dreams. His main expertise is filming, in which he has enjoyed and used the camera since he was 5 years old! He wants a very successful, excessive, and fun future. His dream industry is called SaidiCo., in which he will pursue many things in. An industry is like a huge family tree, with many successful companies in it. Use PepsiCo. as an example of a very successful industry we all know, having owning the chip company FritoLay, the juice company Tropicana, many very well known sodas and much more! Levi plans for SaidiCo. to have a film studio which will release worldwide popular movies that go in theaters, a Saidi Resort chain, a protein drink brand called Rhyme and.. much more! He decided since he is already begun going official in filming, he decided to try
 
 ## Features
 
